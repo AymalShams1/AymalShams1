@@ -10,4 +10,4 @@ My primary interest is **Machine Learning**. I'm actively learning its mathemati
 - Exploring **bare-metal c programming, data structures, algorithms, and systems programming**
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/aymal/) · [GitHub](https://github.com/AymalShams1) · [LeetCode](https://leetcode.com/u/z24TmIZSbP/)
+[LinkedIn](https://www.linkedin.com/in/aymal/) · [Email](mailto:aymalkhairullah1@gmail.com) · [LeetCode](https://leetcode.com/u/z24TmIZSbP/)
