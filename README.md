@@ -1,6 +1,4 @@
-# Hi, I'm Aymal
-
-I'm a Computer Science student at Carleton University, specializing in Artificial Intelligence and Machine Learning.
+Hi, I'm a Computer Science student at Carleton University, specializing in Artificial Intelligence and Machine Learning.
 
 My primary interest is Machine Learning. I'm actively learning its mathematical foundations, algorithms, and practical applications while strengthening my software engineering skills.
 
