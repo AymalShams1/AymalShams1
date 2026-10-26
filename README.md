@@ -9,5 +9,4 @@ What I'm working on
 - Building projects with Python, Java, and C
 - Exploring bare-metal c programming, data structures, algorithms, and systems programming
 
-Connect
 [LinkedIn](https://www.linkedin.com/in/aymal/) · [Email](mailto:aymalkhairullah1@gmail.com) · [LeetCode](https://leetcode.com/u/z24TmIZSbP/)
