@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Carleton University, specializing in Artificial Intelligence and Machine Learning.
 
-My primary interest is Machine Learning. I'm actively learning its mathematical foundations, algorithms, and practical applications while strengthening my software engineering skills.
+My primary interest is Machine Learning and Software Development. I'm actively learning its mathematical foundations, algorithms, and practical applications while strengthening my software engineering skills.
 
 What I'm working on
 - Learning machine learning models
